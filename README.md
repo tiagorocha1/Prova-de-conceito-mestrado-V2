@@ -169,3 +169,5 @@ Implementar uma camada de monitoramento (por exemplo, com Prometheus/Grafana) e 
 Desenvolver uma suíte de testes (unitários e de integração) para ambas as camadas (frontend e backend) garantindo a estabilidade do sistema.
 
 -->
+
+
